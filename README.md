@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Alejandro
 
-<!--
-**AlejandroAmat/AlejandroAmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research Associate @ Carnegie Mellon University
 
-Here are some ideas to get you started:
+I conduct research in real-time differentiable rendering, 3D Gaussian Splatting, and computer vision with deep expertise in high-performance computing. I specialize in bridging cutting-edge research with production-ready real-time systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+C++ • CUDA • Python • Vulkan • OpenGL • PyTorch • GLSL/Slang/HLSL 
+
+## 🔬 Research Interests
+Real-time Rendering • 3D Gaussian Splatting • CUDA/GPU Computing • Differentiable Rendering • HPC Computing • ML/Computer Vision
+
+## 🌐 Links
+Website: [alejandroamat.dev](https://alejandroamat.dev) | Email: alejandroamatp@gmail.com
