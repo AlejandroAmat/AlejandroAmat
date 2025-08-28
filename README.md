@@ -11,4 +11,4 @@ C++ • CUDA • Python • Vulkan • OpenGL • PyTorch • GLSL/Slang/HLSL
 Real-time Rendering • 3D Gaussian Splatting • CUDA/GPU Computing • Differentiable Rendering • HPC Computing • ML/Computer Vision
 
 ## Links
-Website: [alejandroamat.dev](https://alejandroamat.dev) | Email: alejandroamatp@gmail.com
+Website: [alejandroamat](https://alejandroamat.me) | Email: alejandroamatp@gmail.com
