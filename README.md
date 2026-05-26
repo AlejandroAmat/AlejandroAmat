@@ -2,7 +2,7 @@
 
 **Research Associate & MSCS @ Carnegie Mellon University**
 
-I conduct research in **real-time differentiable rendering**, **3D Gaussian Splatting**, and **computer vision** with expertise in **high-performance computing**. I specialize in bridging cutting-edge research with production-ready real-time systems.
+I conduct research in **human avatars**, **real-time differentiable rendering**, **3D Gaussian Splatting**, and **computer vision** with expertise in **high-performance computing**.
 
 **Tech Stack & Interests:**  
 
